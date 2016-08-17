@@ -1,0 +1,19 @@
+{
+  "name": "aninovels",
+  "version": "0.0.1",
+  "description": "anime and novels",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mayerson18/aninovels.git"
+  },
+  "author": "mayerson jimenez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mayerson18/aninovels/issues"
+  },
+  "homepage": "https://github.com/Mayerson18/aninovels#readme"
+}
